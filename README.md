@@ -3,7 +3,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🍀Hi, I'm Jisoo Kim:) </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> Majoring Data Science & Big data Engineering as a sophomore in Sookmyung Women's University</li><li> Web hacking academic director & management team member in SISS(Sookmyung Information Security Club) </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> Majoring Data Science & Big data Engineering as a junior in Sookmyung Women's University</li><li> Web hacking academic director & management team member in SISS(Sookmyung Information Security Club)</li><li>Recent Research Intersets : ML/DL , Automobiles</li> </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
