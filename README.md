@@ -1,6 +1,4 @@
-<p align="center">
-    <img src="https://github.com/user-attachments/assets/16247cf0-1a91-4946-a6d2-db1da5c0d77b" width="960" height="396"/>
-</p>
+![image](https://github.com/user-attachments/assets/16247cf0-1a91-4946-a6d2-db1da5c0d77b)
 
 <p align="center"><i>🌿Tracing patterns in the noise, like sunlight weaving through trees...</i></p>
 <br>
