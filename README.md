@@ -7,8 +7,8 @@
 
 - 🎓 Junior at **Sookmyung Women's University** 
 - 💻 Major in **Data Science & Big Data Engineering**  
-- 🔐 Web Hacking Academic Director @ **SISS** (Sookmyung Information Security Study)
-- 💡 Interests: Anomaly Detection, Data Mining, MLOps, Data Engineering, Cyber Security
+- 🔐 Web Hacking Academic Director · Member @ **SISS** (Sookmyung Information Security Study) | *since 2023~*
+- 💡 Interests: Anomaly Detection, AI-driven Security, Data Mining, Data Engineering
 
 ---
 
