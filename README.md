@@ -38,7 +38,7 @@
 
 
 ## 🧑‍💻 Contact Me
-📫 Email : jisugim168@gmail.com <br>
+📫 Email : jisugim168[a.t.]gmail.com <br>
 <p align="left">
   <!-- contact badges -->
     <a href=https://sallysooo.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://sallysooo.tistory.com/"> </a>
