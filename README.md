@@ -42,6 +42,6 @@
   <!-- contact badges -->
     <a href="https://www.linkedin.com/in/jisoo-kim-66619b2bb"> <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin-white&logoColor=fff"> </a>
     <a href=https://sallysooo.tistory.com/> <img src="https://img.shields.io/badge/Tistory-DA552F?style=flat-square&logo=Tistory&logoColor=white&link=https://sallysooo.tistory.com/"> </a>
-    <a href=https://tidy-fontina-107.notion.site/Jisoo-Kim-688f3194d0ae49efadf616f4f5c9ea5f?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://tidy-fontina-107.notion.site/Jisoo-Kim-688f3194d0ae49efadf616f4f5c9ea5f?pvs=4"> </a>
+    <a href=https://tidy-fontina-107.notion.site/Jisoo-Kim-688f3194d0ae49efadf616f4f5c9ea5f> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://tidy-fontina-107.notion.site/Jisoo-Kim-688f3194d0ae49efadf616f4f5c9ea5f"> </a>
 </p>
 
