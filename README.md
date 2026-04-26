@@ -5,10 +5,10 @@
 
 ## 👋 Hi, I'm Jisoo Kim
 
-- 🎓 Junior at **Sookmyung Women's University** 
+- 🎓 Senior at **Sookmyung Women's University** 
 - 💻 Major in **Data Science & Big Data Engineering**  
 - 🔐 Web Hacking Academic Director · Member @ **SISS** (Sookmyung Information Security Study) | *since 2023~*
-- 💡 Interests: Anomaly Detection, AI-driven Security, Data Mining, Data Engineering
+- 💡 Interests: Anomaly Detection, Data-driven Security, Network Security, Bot detection
 
 ---
 
