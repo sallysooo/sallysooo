@@ -3,7 +3,7 @@
 <p align="center"><i>🌿Tracing patterns in the noise, like sunlight weaving through trees...</i></p>
 <br>
 
-## [About Me.](https://tidy-fontina-107.notion.site/Jisoo-Kim-688f3194d0ae49efadf616f4f5c9ea5f)
+## [About Me.](https://sallysooo.com)
 
 - Senior at **Sookmyung Women's University** 
 - Majoring **Data Science & Big Data Engineering**  
