@@ -24,8 +24,8 @@
 📫 Email : **_jisugim168[a.t.]gmail.com_** <br>
 Contacts are always welcome:-)
 
-<div align="center">
+<!-- <div align="center">
   <picture>
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sallysooo/sallysooo/output/github-contribution-grid-snake.svg">
   </picture>
-</div>
+</div> -->
